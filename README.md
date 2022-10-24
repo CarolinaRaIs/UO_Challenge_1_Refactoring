@@ -3,7 +3,7 @@
 ## Description
 
 This website was created for potential clients of Horiseon to understand marketing strategies that are a part of the company's scope of work. The website was refactored to provide accessibility features. 
-![](Downloads/UO Challenge 1 ScreenShot.png)
+![](./Downloads/UO_Challenge_1_ScreenShot.png)
 
 ## Installation
 
